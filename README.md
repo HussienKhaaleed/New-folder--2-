@@ -4,7 +4,7 @@ A new Flutter project.
 
 # 📱 Screens
 
-## 📱 Splash
+## 🎨 Splash
 
 ## 📱 Loading
 
