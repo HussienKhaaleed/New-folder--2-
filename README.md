@@ -1,4 +1,4 @@
-# project_test
+# Solar_Power_E-commerce
 
 A new Flutter project.
 
