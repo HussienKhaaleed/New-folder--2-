@@ -2,15 +2,15 @@
 
 A new Flutter project.
 
-## 📱 Screens
+# 📱 Screens
 
-# 📱 Splash
+## 📱 Splash
 
-# 📱 Loading
+## 📱 Loading
 
-# 🏠 Home Screen
+## 🏠 Home Screen
 
-# 🔍 Details Screen
+## 🔍 Details Screen
 This project is a starting point for a Flutter application.
 
 A few resources to get you started if this is your first Flutter project:
