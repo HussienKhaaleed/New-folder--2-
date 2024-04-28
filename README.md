@@ -1,6 +1,6 @@
 # 📘 Overview
 
-A new Flutter project.
+Solar Power E-commerce Mobile Application for Graduation Project.
 
 # 📱 Screens
 
@@ -41,5 +41,8 @@ A new Flutter project.
 
 ## 🤖 Profile Screen
 ![Screenshot_1714323015](https://github.com/HussienKhaaleed/Solar-Power-E-commerce/assets/157541749/39e9cce5-7219-4504-8c07-002f16e9c88e)
+
+Backend :
+Firebase
 
  
