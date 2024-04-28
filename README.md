@@ -5,6 +5,8 @@ A new Flutter project.
 # 📱 Screens
 
 ## 🎨 Splash
+![Screenshot_1714322734](https://github.com/HussienKhaaleed/Solar-Power-E-commerce/assets/157541749/3d456321-6b3c-459a-bd27-7956eb876f33)
+
 
 ## 📱 Loading
 
